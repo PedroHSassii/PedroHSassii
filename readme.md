@@ -126,5 +126,5 @@
    <img alingn="center" src="https://profile-counter.glitch.me/PedroHSassii/count.svg" />
  </p>
  
- ## Contributions :handshake: <br>
-![Snake animation](https://github.com/PedroHSassii/PedroHSassii/blob/output/github-contribution-grid-snake.svg)
+<!--> ## Contributions :handshake: <br>
+![Snake animation](https://github.com/PedroHSassii/PedroHSassii/blob/output/github-contribution-grid-snake.svg)-->
