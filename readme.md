@@ -123,9 +123,11 @@
 
 
  ## Total visits :detective: <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/PedroHSassii/count.svg" />
- </p>
+<p align="center">
+  <img align="center" src="https://profile-counter.glitch.me/PedroHSassii/count.svg">
+</p>
+
+
  
 ## Contributions :handshake: <br>
 
