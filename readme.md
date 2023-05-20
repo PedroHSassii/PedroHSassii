@@ -95,7 +95,7 @@
        <img
         align="center"
         width="65%"
-        src="https://github-readme-stats.vercel.app/api?username=PedroHSassii&count_private=true&show_icons=true&theme=react&hide_border=true"
+        src="https://github-readme-stats.vercel.app/api?username=PedroHSassii&count_private=true&show_icons=true&theme=tokyonight&hide_border=true"
       />
     </a>
   </div>
@@ -105,17 +105,18 @@
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
-      width="35%"
+      width="30%"
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHSassii&count_private=true&text_color=ffffff&bg_color=20232a&layout=compact&hide_border=true&langs_count=4"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHSassii&count_private=true&theme=tokyonight&layout=pie&hide_border=true&langs_count=9999"
     />
   </a>
+
   <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
     <img
       align="center"
-      width="396" 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=PedroHSassii&count_private=true&theme=react&hide_border=true"
-      alt="willian-kirsch"
+      width="69%" 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=PedroHSassii&count_private=true&theme=tokyonight&hide_border=true"
+      alt="PedroHSassii"
     />
   </a>
 </p>
@@ -126,5 +127,10 @@
    <img alingn="center" src="https://profile-counter.glitch.me/PedroHSassii/count.svg" />
  </p>
  
-<!--> ## Contributions :handshake: <br>
-![Snake animation](https://github.com/PedroHSassii/PedroHSassii/blob/output/github-contribution-grid-snake.svg)-->
+## Contributions :handshake: <br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroHSassii/PedroHSassii/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PedroHSassii/PedroHSassii/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PedroHSassii/PedroHSassii/output/github-contribution-grid-snake.svg">
+</picture>
