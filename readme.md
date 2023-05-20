@@ -105,7 +105,7 @@
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
-      width="30%"
+      width="65%"
       align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHSassii&count_private=true&theme=tokyonight&layout=pie&hide_border=true&langs_count=9999"
     />
