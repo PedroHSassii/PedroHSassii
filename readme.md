@@ -111,14 +111,14 @@
     />
   </a>
 
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+<!-- >>  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
     <img
       align="center"
       width="69%" 
       src="https://github-readme-streak-stats.herokuapp.com/?user=PedroHSassii&count_private=true&theme=tokyonight&hide_border=true"
       alt="PedroHSassii"
     />
-  </a>
+  </a> -->
 </p>
 
 
