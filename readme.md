@@ -2,7 +2,7 @@
 
 - 👨‍💻   Support Analyst at [**Digifred**](https://digifred.com.br/).
 - 🌱   Studing in Computer Science
-- 💙   Interest: SQL, Firebird, Delphi, Python, Ionic, Angular, Docker, AWS and TypeScript.
+- 💙   Interest: SQL, Firebird, Delphi, Python, Docker, AWS, TypeScript and PHP.
 
 
 ## Skills :computer:
