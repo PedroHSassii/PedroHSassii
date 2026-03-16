@@ -31,7 +31,7 @@ My work involves:
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 
 <br/><br/>
-
+<p align="center">
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg">
@@ -39,7 +39,7 @@ My work involves:
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
 
 <br/><br/>
-
+<p align="center">
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
@@ -47,7 +47,7 @@ My work involves:
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg">
 
 <br/><br/>
-
+<p align="center">
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg">
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg">
@@ -99,14 +99,6 @@ My work involves:
 <img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHSassii&count_private=true&theme=tokyonight&layout=compact&hide_border=true"/>
 
 </p>
-
----
-
-## Total Visits
-
-<div align="center">
-<img alt="Visitor Stats" src="https://widgetbite.com/stats/PedroHSassii"/>
-</div>
 
 ---
 
