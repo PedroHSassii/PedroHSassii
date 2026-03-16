@@ -70,12 +70,14 @@ My work involves:
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
+<p align="center">
 <a href="mailto:henriquesassi.prof@gmail.com">
 <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
+<p align="center">
 <a href="https://www.linkedin.com/in/pedrohgsassi">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
