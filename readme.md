@@ -29,6 +29,8 @@ My work involves:
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/python-original.svg">
 
 <br/><br/>
 <p align="center">
