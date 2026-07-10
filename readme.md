@@ -93,7 +93,7 @@ My work involves:
 <div align="center">
   <img
     width="65%"
-    src="https://github-readme-stats.vercel.app/api?username=PedroHSassii&count_private=true&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api?username=PedroHSassii&count_private=true&show_icons=true&theme=tokyonight&hide_border=true"
     alt="PedroHSassii's GitHub stats"
   />
 </div>
@@ -103,7 +103,7 @@ My work involves:
 <div align="center">
   <img
     width="65%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHSassii&count_private=true&theme=tokyonight&layout=compact&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=PedroHSassii&count_private=true&theme=tokyonight&layout=compact&hide_border=true"
     alt="Top languages"
   />
 </div>
