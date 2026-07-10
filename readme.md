@@ -91,21 +91,24 @@ My work involves:
 ## GitHub Stats
 
 <div align="center">
-
-<img width="65%" src="https://github-readme-stats.vercel.app/api?username=PedroHSassii&count_private=true&show_icons=true&theme=tokyonight&hide_border=true"/>
-
+  <img
+    width="65%"
+    src="https://github-readme-stats.vercel.app/api?username=PedroHSassii&count_private=true&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="PedroHSassii's GitHub stats"
+  />
 </div>
 
-<br/>
+<br />
 
-<p align="center">
-
-<img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHSassii&count_private=true&theme=tokyonight&layout=compact&hide_border=true"/>
-
-</p>
+<div align="center">
+  <img
+    width="65%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHSassii&count_private=true&theme=tokyonight&layout=compact&hide_border=true"
+    alt="Top languages"
+  />
+</div>
 
 ---
-
 ## Contributions
 
 ![Snake animation](https://github.com/PedroHSassii/PedroHSassii/blob/output/github-contribution-grid-snake.svg)
