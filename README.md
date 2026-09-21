@@ -37,24 +37,29 @@
 
 ## Estatísticas do GitHub
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg" />
-    <img alt="Estatísticas do GitHub de Pedro" src="./profile-summary-card-output/github/3-stats.svg" width="49%" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/2-most-commit-language.svg" />
-    <img alt="Linguagens mais usadas nos commits" src="./profile-summary-card-output/github/2-most-commit-language.svg" width="49%" />
-  </picture>
-</p>
+<div align="center">
+  <img
+    width="65%"
+    src="https://github-stats-extended.vercel.app/api?username=PedroHSassii&count_private=true&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="PedroHSassii's GitHub stats"
+  />
+</div>
+
+<br />
+
+<div align="center">
+  <img
+    width="65%"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=PedroHSassii&count_private=true&theme=tokyonight&layout=compact&hide_border=true"
+    alt="Top languages"
+  />
+</div>
+
+---
 
 ## Contribuições
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroHSassii/PedroHSassii/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PedroHSassii/PedroHSassii/output/github-snake.svg" />
-  <img alt="Animação da cobrinha percorrendo o gráfico de contribuições" src="https://raw.githubusercontent.com/PedroHSassii/PedroHSassii/output/github-snake.svg" />
-</picture>
+![Snake animation](https://github.com/PedroHSassii/PedroHSassii/blob/output/github-contribution-grid-snake.svg)
 
 ## Contato
 
